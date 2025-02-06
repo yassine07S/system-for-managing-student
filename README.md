@@ -1,0 +1,1 @@
+This Python code defines a system for managing student groups, where each group contains a list of students, and each student has information such as name, matricule, address, phone number, birthdate, and module grades. Here’s a breakdown of its key functionalities:
